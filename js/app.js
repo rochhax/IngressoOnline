@@ -1,5 +1,5 @@
 //@rochhax
-/*
+
     let pista = parseInt(document.getElementById('qtd-pista').textContent);
     let superior = parseInt(document.getElementById('qtd-superior').textContent);
     let inferior = parseInt(document.getElementById('qtd-inferior').textContent);
@@ -52,4 +52,3 @@ function comprarInferior(qtd) {
         alert(`Você comprou ${qtd} ingressos Inferior!`);
     }
 }
-    */
